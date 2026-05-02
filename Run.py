@@ -1,4 +1,4 @@
-import ok
+import Paing
 
 if __name__ == "__main__":
-    ok.main() 
+    Paing.main() 
